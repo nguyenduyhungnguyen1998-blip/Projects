@@ -73,8 +73,8 @@ const musicBtn = document.getElementById("music-btn");
 
   const messages = [
     "8/3 dui dẻ nha bà, quý lắm mới chúc á nha bà! 💝🎂.",
-    "Mong sao tuổi mới bà sẽ mang đến thật nhiều hạnh phúc và sức khỏe dồi dào! 🎉✨.",
-    "Chúc sao cho bà luôn thành công nữa nè, làm gì cũng thuận lợi 🥰🍀.",
+    "Mong sao bà sẽ luôn luôn tươi cười, hạnh phúc và luôn low cortisol như tui thường thấy nha!! 🎉✨.",
+    "Chúc  cho bà luôn thành công nữa nè, làm gì cũng thuận lợi,đặc biệt là chiến thắng vẻ vang trong kì thi hsg sắp tới 🥰🍀.",
     "Ngày quốc tế phụ nữ, chúc sao cho bà luôn dui dẻ bên bạn bè, gia đình và người bà luôn yêu thương 🤗💞.",
     "Hãy tận hưởng ngày đặc biệt này với thật nhiều niềm vui và tiếng cười nhé! ❤️🎈"
   ];
@@ -364,4 +364,5 @@ closePopupBtn.addEventListener("click", () => {
   stopFireworks();
   moveCount = 0; 
   exitBtn.style.transform = "";
+
 });
